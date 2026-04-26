@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+.h1 {
+    background-color: greenyellow;
+    text-align: center;
+    padding: 20px;
+}
+.link-header {
+    font-size: 20px;
+    background-color: skyblue;
+    padding: 5px;
+    text-decoration: none;
+   
+}
+header {
+    background-color: blueviolet;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+.h {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+.text-big {
+    font-size: 25px;
+    padding: 5px;
+}
+.link-nav {
+    padding: 15px;
+    color: black;
+}
+p {
+    padding-left: 20px;
+}
+
+
+
